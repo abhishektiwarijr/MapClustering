@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapClustering</string>
+    <string name="google_maps_key"> AIzaSyCDFL6FtPVjNmFatw0MdM64WmbDfyH6YRc </string>
+
+</resources>
